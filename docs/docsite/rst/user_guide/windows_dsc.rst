@@ -12,7 +12,7 @@ is the same as Ansible, it is just executed in a different manner. Since
 Ansible 2.4, the ``win_dsc`` module has been added and can be used to take advantage of
 existing DSC resources when interacting with a Windows host.
 
-More details on DSC can be viewed at `DSC Overview <https://docs.microsoft.com/en-us/powershell/scripting/dsc/overview/overview>`_.
+More details on DSC can be viewed at `DSC Overview <https://docs.microsoft.com/en-us/powershell/scripting/dsc/overview>`_.
 
 Host Requirements
 `````````````````
